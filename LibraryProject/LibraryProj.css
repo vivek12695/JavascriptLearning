@@ -1,0 +1,12 @@
+#BookListContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 5px;
+}
+
+#LibraryForm {
+  margin: 5px;
+  border: 2px;
+  border-width: 5px;
+}
